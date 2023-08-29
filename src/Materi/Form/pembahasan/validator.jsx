@@ -59,6 +59,7 @@ export default class Validations extends React.Component{
                 password: ${this.state.password}
             `)
           }
+          
 
           
         
